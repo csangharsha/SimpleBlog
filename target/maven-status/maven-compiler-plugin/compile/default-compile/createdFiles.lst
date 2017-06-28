@@ -3,3 +3,4 @@ org\sangharsha\simpleblog\config\WebInitializer.class
 org\sangharsha\simpleblog\config\SecurityConfiguration.class
 org\sangharsha\simpleblog\config\WebConfiguration.class
 org\sangharsha\simpleblog\controller\TestController.class
+org\sangharsha\simpleblog\controller\HomeController.class

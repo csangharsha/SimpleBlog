@@ -16,7 +16,7 @@ import org.springframework.web.servlet.ModelAndView;
  * @author Sangharsha
  */
 @Controller
-@RequestMapping(value = {"/"})
+@RequestMapping(value = {"test/"})
 public class TestController {
 
     @RequestMapping(value = {"/"})
